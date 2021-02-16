@@ -1,5 +1,5 @@
 # hello-world
 Just another repository.
 
-hi my name is tucky
+hello my name is tucky
 
